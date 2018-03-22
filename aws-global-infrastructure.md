@@ -1,14 +1,10 @@
 # AWS Global Infrastructure
 
+AWS Global Infrastructure has 19\(18 geographic + 1 local\) Regions, 54 Availability zones and 114 points of presence \(101 edge locations and 13 regional edge caches\).
 
+### North America
 
-AWS Global Infrastructure has 19\(18 geographic + 1 local\) Regions, 54 Availability zones and 114 points of presence \(101 edge locations and 13 regional edge caches\). 
-
-
-
-North America
-
-| Regions | AZ's |
+|  | AZ's |
 | :--- | :--- |
 | US-EAST-1 \(North Carolina\) | 6 |
 | US-EAST-2 \(Ohio\) | 3 |
@@ -17,30 +13,24 @@ North America
 | US-Gov-Cloud | 3 |
 | US-Central \(Canada\) | 2 |
 
+### South America
 
-
-South America 
-
-| Regions | AZ's |
+|  | AZ's |
 | :--- | :--- |
 | Sao Paulo | 3 |
 
+### EMEA - Europe, Middle East and Africa
 
-
-EMEA - Europe, Middle East and Africa
-
-| Regions | AZ's |
+|  | AZ's |
 | :--- | :--- |
 | Ireland | 3 |
 | Frankfurt | 3 |
 | London | 3 |
 | Paris | 3 |
 
+### AP - Asia Pacific
 
-
-AP - Asia Pacific 
-
-| Regions | AZ's |
+|  | AZ's |
 | :--- | :--- |
 | Mumbai | 2 |
 | China-Beijing | 2 |
