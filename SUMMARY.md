@@ -23,6 +23,7 @@
     * [AR and VR](aws-service-categories/ar-and-vr.md)
     * [Internet of Things](aws-service-categories/internet-of-things.md)
     * [Desktop And App Streaming](aws-service-categories/desktop-and-app-streaming.md)
+  * [AWS Global Infrastructure](aws-global-infrastructure.md)
 * [AWS Billing](billing.md)
 * [AWS Security](chapter1.md)
 * [AWS Services](aws-services.md)
@@ -30,4 +31,5 @@
   * [Audio Podcasts](podcast/audio-podcasts.md)
   * [Videos](podcast/videos.md)
 * [AWS Certifications](certifications.md)
+  * [AWS Certified Cloud Practitioner](certifications/aws-certified-cloud-practitioner.md)
 
