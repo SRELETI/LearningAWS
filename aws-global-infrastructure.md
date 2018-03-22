@@ -4,7 +4,7 @@ AWS Global Infrastructure has 19\(18 geographic + 1 local\) Regions, 54 Availabi
 
 ### North America
 
-|  | AZ's |
+| Regions | AZ's |
 | :--- | :--- |
 | US-EAST-1 \(North Carolina\) | 6 |
 | US-EAST-2 \(Ohio\) | 3 |
@@ -15,13 +15,13 @@ AWS Global Infrastructure has 19\(18 geographic + 1 local\) Regions, 54 Availabi
 
 ### South America
 
-|  | AZ's |
+| Regions | AZ's |
 | :--- | :--- |
 | Sao Paulo | 3 |
 
 ### EMEA - Europe, Middle East and Africa
 
-|  | AZ's |
+| Regions | AZ's |
 | :--- | :--- |
 | Ireland | 3 |
 | Frankfurt | 3 |
@@ -30,7 +30,7 @@ AWS Global Infrastructure has 19\(18 geographic + 1 local\) Regions, 54 Availabi
 
 ### AP - Asia Pacific
 
-|  | AZ's |
+| Regions | AZ's |
 | :--- | :--- |
 | Mumbai | 2 |
 | China-Beijing | 2 |
