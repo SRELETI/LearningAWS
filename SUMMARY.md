@@ -32,6 +32,7 @@
 * [AWS Services](aws-services.md)
   * [IAM](aws-services/iam.md)
   * [S3](aws-services/s3.md)
+  * [Glacier](aws-services/glacier.md)
 * [AWS Talks](podcast.md)
   * [Audio Podcasts](podcast/audio-podcasts.md)
   * [Videos](podcast/videos.md)
