@@ -31,7 +31,7 @@
 * [AWS Security](chapter1.md)
 * [AWS Services](aws-services.md)
   * [IAM](aws-services/iam.md)
-  * S3
+  * [S3](aws-services/s3.md)
 * [AWS Talks](podcast.md)
   * [Audio Podcasts](podcast/audio-podcasts.md)
   * [Videos](podcast/videos.md)
