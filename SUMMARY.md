@@ -1,7 +1,7 @@
 # Summary
 
 * [README](SUMMARY.md)
-* [AWS Overview](readme.md)
+* [AWS Getting Started](readme.md)
   * [AWESOME](awesome.md)
   * [AWS Global Infrastructure](aws-global-infrastructure.md)
   * [AWS Service Categories](aws-service-categories.md)
@@ -25,10 +25,13 @@
     * [Internet of Things](aws-service-categories/internet-of-things.md)
     * [Desktop And App Streaming](aws-service-categories/desktop-and-app-streaming.md)
   * [Ways to Interact with AWS](interacting-with-aws.md)
-* [AWS Billing](billing.md)
   * [Free Tier](billing/free-tier.md)
+  * [Account Creation](billing/support-plans.md)
+* [AWS Billing](billing.md)
 * [AWS Security](chapter1.md)
 * [AWS Services](aws-services.md)
+  * [IAM](aws-services/iam.md)
+  * S3
 * [AWS Talks](podcast.md)
   * [Audio Podcasts](podcast/audio-podcasts.md)
   * [Videos](podcast/videos.md)
