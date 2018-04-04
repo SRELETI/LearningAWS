@@ -64,13 +64,30 @@ AWS Free tier is active for 12 months after opening a aws account.
 | Service | Free Tier Features | Expires at the end of free tier? |
 | :--- | :--- | :--- |
 | AWS Codestar | Free Service, Pay only for underlying resources | NA |
-| AWS Codecommit | 5 users, 50 GB-month storage, 10000 git requests | Non-Expiring  |
+| AWS Codecommit | 5 users, 50 GB-month storage, 10000 git requests | Non-Expiring |
 | AWS Codebuild | 100 build minutes/month of build.general1.small compute type | Non-Expiring |
-| AWS Codedeploy |  |  |
-| AWS Codepipeline |  |  |
-| AWS Cloud9 |  |  |
-| AWS X-Ray |  |  |
-| AWS CLI |  |  |
+| AWS Codedeploy | No Charge for deploying to aws. Charges apply if deployed to on-premise. | NA |
+| AWS Codepipeline | 1 Active pipeline/month | Non-expiring |
+| AWS Cloud9 | No additional cost, pay only for underlying resources  | NA |
+| AWS X-Ray | 100, 000 traces recorded/month, 1000,000 traces scanned or retrieved per month | Non-Expiring |
+| AWS CLI | Free | Non-Expiring |
+
+
+
+### Management Tools:
+
+| Service | Free Tier Features | Expires at the end of free tier? |
+| :--- | :--- | :--- |
+| AWS CloudFormation | Free Service | Non-Expiring |
+| AWS OpsWorks |  |  |
+| AWS Config |  |  |
+| AWS CloudWatch |  |  |
+| AWS CloudTrail |  |  |
+| AWS Autoscaling service |  |  |
+| AWS System Manager |  |  |
+| AWS Service Catalog |  |  |
+| AWS Personalized health dashboard |  |  |
+| AWS Trusted Advisor |  |  |
 
 
 
