@@ -48,18 +48,24 @@ AWS Free tier is active for 12 months after opening a aws account.
 | Neptune | In Preview now | NA |
 | Database Migration Service | 750 hours of Single AZ t2 micro instance | Non-expiring |
 
-
-
 ### Network and Content Delivery:
 
 | Service | Free Tier Features | Expires at the end of free tier? |
 | :--- | :--- | :--- |
-| Route53 |  |  |
-| API Gateway |  |  |
-| Load Balancer |  |  |
-| VPC |  |  |
-| DirectConnect |  |  |
-| CloudFront |  |  |
+| Route53 | No Free Tier | NA |
+| API Gateway | 1M API calls | Expires after 12 months |
+| Load Balancer | 750 hours of elastic load balancers | Expires after 12 months |
+| VPC | No Free Tier | NA |
+| DirectConnect | No Free Tier | NA |
+| CloudFront | 50 GB of data transfer out and 2,000,000 http and https requests  | Expires after 12 months |
+
+
+
+### Developer Tools:
+
+| Service | Free Tier Features | Expires at the end of free tier? |
+| :--- | :--- | :--- |
+|  |  |  |
 
 
 
