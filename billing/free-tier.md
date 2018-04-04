@@ -57,15 +57,20 @@ AWS Free tier is active for 12 months after opening a aws account.
 | Load Balancer | 750 hours of elastic load balancers | Expires after 12 months |
 | VPC | No Free Tier | NA |
 | DirectConnect | No Free Tier | NA |
-| CloudFront | 50 GB of data transfer out and 2,000,000 http and https requests  | Expires after 12 months |
-
-
+| CloudFront | 50 GB of data transfer out and 2,000,000 http and https requests | Expires after 12 months |
 
 ### Developer Tools:
 
 | Service | Free Tier Features | Expires at the end of free tier? |
 | :--- | :--- | :--- |
-|  |  |  |
+| AWS Codestar | Free Service, Pay only for underlying resources | NA |
+| AWS Codecommit | 5 users, 50 GB-month storage, 10000 git requests | Non-Expiring  |
+| AWS Codebuild | 100 build minutes/month of build.general1.small compute type | Non-Expiring |
+| AWS Codedeploy |  |  |
+| AWS Codepipeline |  |  |
+| AWS Cloud9 |  |  |
+| AWS X-Ray |  |  |
+| AWS CLI |  |  |
 
 
 
